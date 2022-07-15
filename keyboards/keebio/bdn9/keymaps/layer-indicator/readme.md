@@ -1,0 +1,1 @@
+This keymap demonstrates how one could use the RGB underglow to indicate the active layer.  The underglow color indicates the current layer, which is changed with the middle rotary encoder (on every layer), and the right encoder adjusts the brightness (value) of the underglow.
